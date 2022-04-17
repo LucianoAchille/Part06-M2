@@ -25,6 +25,8 @@ El ES6 ,también conocido como ECMAScript 2015 o ES2015+, es la última versión
 
 ## Historia
 
+
+
 Desde su aparición en 1995, JS fue evolucionando lentamente. ECMAScript apareció como standart en 1997, y desde ahí viene lanzando nuevas versiones como ES3, ES5, ES6, etc..
 
 ![no-box](/_src/assets/03-ES6/jsevo.png)
